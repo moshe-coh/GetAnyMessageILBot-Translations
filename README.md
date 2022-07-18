@@ -53,5 +53,5 @@ This way, it will be replaced with the corresponding string in English (en_US) a
 If you happen to find something to improve (without completely change the meaning), feel free to make changes.
 
 ## Contacts
-- Telegram: [@𝐇𝐀𝐂𝐇𝐄](https://t.me/JewsAdmin).
+- Telegram: [@JewsAdmin](https://t.me/JewsAdmin).
 - Telegram Group: [Support Group](https://t.me/JewsSupport).
