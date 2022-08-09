@@ -8,6 +8,8 @@
 
 **Hebrew** by [me](https://github.com/moshe-coh)
 
+**Dutch** by [shtjonathan](https://github.com/shtjonathan)
+
 > Add yourself here once you submit your translations
 
 All translations, except English (en) and Hebrew (he) are made by volunteers who decided to help.
